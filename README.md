@@ -1,6 +1,5 @@
 ## Hi there 👋
-https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20Mingyu's%20GitHub
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&text=Welcome%20To%20-nl-JunSeob's%20GitHub&animation=fadeIn&fontColor=86bac1&fontSize=70" />
 <!--
 **mingyulee327/mingyulee327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
