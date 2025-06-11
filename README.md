@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20Mingyu's%20GitHub" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20-nl-Mingyu's%20GitHub&fontAlignY=39&textBg=false" />
 <!--
 **mingyulee327/mingyulee327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
