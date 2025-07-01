@@ -13,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ✨ Introduction ✨ 
+
+- Sekolah Pelita Harapan Lippo Village, Indonesia (- May. 2020)
+
+- B.E in Computer Science and Engineering, Chung-Ang University, South Korea (Mar. 2021 - present)
+  
+- 80th Infantry Regiment, 28th Infantry Division, R.O.K.A. | Signal Co. (Apr. 2022 - Oct. 2023)
+
+- GDGoC CAU Member, South Korea (Sep. 2024 - present)
