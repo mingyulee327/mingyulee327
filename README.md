@@ -39,7 +39,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 	<h3>🌍 Language Proficiency 🌍</h3>
