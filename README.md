@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20-nl-Mingyu's%20GitHub&fontAlignY=39&textBg=false" />
 
 ### ✨ Introduction ✨ 
-Born in Korea, raised in Indonesia. CSE student with a touch of love for guitar and music in general. A music theory geek at heart.
+Born in Korea, raised in Indonesia. CSE student with a touch of love for Jazz. A guitarist & bassist & drummer and a music theory geek at heart.
 
 ### ✨ Education & Experience ✨ 
 
