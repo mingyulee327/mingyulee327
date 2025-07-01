@@ -31,7 +31,7 @@
 
 <br>
 
-<h3>📖Currently Studying</h3>
+<h3>📖 Currently Studying 📖</h3>
 <!-- Frontend Development -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
