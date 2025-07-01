@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there!
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20-nl-Mingyu's%20GitHub&fontAlignY=39&textBg=false" />
 
 ### ✨ Introduction ✨ 
