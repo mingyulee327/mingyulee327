@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 
-<br>
+<br><br>
 <p>📖 <strong>Currently Studying</strong></p>
 <!-- Frontend Development -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
