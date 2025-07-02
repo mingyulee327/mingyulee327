@@ -1,8 +1,22 @@
 ## Hello there! / 안녕하세요! / こんにちは!
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20-nl-Mingyu's%20GitHub&fontAlignY=39&textBg=false" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=mingyulee327&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
 
+<div align="center">
+  <a href="https://github.com/lshwa">
+    <img src="https://github-readme-stats.vercel.app/api?username=mingyulee327&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+</div>
+
+<br>
+<br>
+
+<!-- Top Languages -->
+<div align="center">
+  <a href="https://github.com/lshwa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyulee327&theme=dark" alt="Top Langs" />
+  </a>
+</div>
 
 ### 🎸 Introduction 🎸 
 Born in Korea, raised in Indonesia. CSE student in CAU with a love for my guitar, bass and drums. <br> Always a jazz enthusiast and a music theory geek at heart.
