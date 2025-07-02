@@ -60,5 +60,4 @@ Born in Korea, raised in Indonesia. CSE student in CAU with a love for my guitar
     <img src="https://img.shields.io/badge/Indonesian-Intermediate-007396?style=flat&logo=Google%20Translate&logoColor=white" />
     <img src="https://img.shields.io/badge/Japanese-Intermediate-007396?style=flat&logo=Google%20Translate&logoColor=white" />
 	</p>
-	<p>Bilingual in Korean and English, with an ability to communicate in both Indonesian and Japanese to some extent.</p>
 </div>
