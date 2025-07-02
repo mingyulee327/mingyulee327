@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/lshwa">
+  <a href="https://github.com/mingyulee327">
     <img src="https://github-readme-stats.vercel.app/api?username=mingyulee327&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
 </div>
@@ -13,7 +13,7 @@
 
 <!-- Top Languages -->
 <div align="center">
-  <a href="https://github.com/lshwa">
+  <a href="https://github.com/mingyulee327">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyulee327&theme=dark" alt="Top Langs" />
   </a>
 </div>
