@@ -12,11 +12,11 @@
 <br>
 
 <!-- Top Languages -->
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/mingyulee327">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyulee327&theme=dark" alt="Top Langs" />
   </a>
-</div>
+</div> -->
 
 ### 🎸 Introduction 🎸 
 Born in Korea, raised in Indonesia. CSE student in CAU with a love for my guitar, bass and drums. <br> Always a jazz enthusiast and a music theory geek at heart.
