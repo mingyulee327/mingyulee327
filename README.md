@@ -18,6 +18,10 @@
   </a>
 </div> -->
 
+**🏆 GitHub Trophies**
+
+![](https://github-profile-trophy.vercel.app/?username=mingyulee327&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### 🎸 Introduction 🎸 
 Born in Korea, raised in Indonesia. CSE student in CAU with a love for my guitar, bass and drums. <br> Always a jazz enthusiast and a music theory geek at heart.
 
