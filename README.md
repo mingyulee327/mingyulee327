@@ -77,7 +77,7 @@ Born in Korea, raised in Indonesia. CSE student in CAU with a love for my guitar
 	<p>
 		<img src="https://img.shields.io/badge/Korean-Native-00A98F?style=flat&logo=Google%20Translate&logoColor=white" />
 		<img src="https://img.shields.io/badge/English-Bilingual-00A98F?style=flat&logo=Google%20Translate&logoColor=white" />
-		<img src="https://img.shields.io/badge/Japanese-Advanced-238636?style=flat&logo=Google%20Translate&logoColor=white" />
+		<img src="https://img.shields.io/badge/Japanese-Advanced-11baa0?style=flat&logo=Google%20Translate&logoColor=white" />
     	<img src="https://img.shields.io/badge/Indonesian-Intermediate-007396?style=flat&logo=Google%20Translate&logoColor=white" />
 	</p>
 </div>
