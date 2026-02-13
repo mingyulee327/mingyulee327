@@ -7,8 +7,6 @@
   </a>
 </div>
 -->
-<br>
-<br>
 
 <!-- Top Languages -->
 <!--<div align="center">
