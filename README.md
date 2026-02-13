@@ -1,12 +1,12 @@
 ## Hello there!
 
-
+<!--
 <div align="center">
   <a href="https://github.com/mingyulee327">
     <img src="https://github-readme-stats.vercel.app/api?username=mingyulee327&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
 </div>
-
+-->
 <br>
 <br>
 
