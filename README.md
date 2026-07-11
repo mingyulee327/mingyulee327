@@ -20,19 +20,19 @@
 ![](https://github-profile-trophy.vercel.app/?username=mingyulee327&theme=algolia)-->
 
 ### 🎸 Introduction 🎸 
-Born in Korea, raised in Indonesia. CSE student in CAU with a love for my guitar, bass and drums. <br> Always a jazz enthusiast and a music theory geek at heart.
+Born in Korea, raised in Indonesia. <br> CSE alumni @ CAU
 
 ### ✨ Education & Experience ✨ 
 
-- Sekolah Pelita Harapan Lippo Village | Indonesia (- May. 2020)
+- Sekolah Pelita Harapan Lippo Village | Indonesia (- May 2020)
 
-- B.E in Computer Science and Engineering, Chung-Ang University | South Korea (Mar. 2021 - present)
+- B.E in Computer Science and Engineering, Chung-Ang University | South Korea (Mar 2021 - Aug 2026)
   
-- Signal Co., 80th Infantry Brigade, 28th Infantry Division, R.O.K.A. | South Korea (Apr. 2022 - Oct. 2023)
+- Signal Co., 80th Infantry Brigade, 28th Infantry Division, R.O.K.A. | South Korea (Apr 2022 - Oct 2023)
 
-- Member of Google Developer Groups on Campus, Chung-Ang University | South Korea (Sep. 2024 - Jul. 2027)
+- Member of Google Developer Groups on Campus, Chung-Ang University | South Korea (Sep 2024 - Jul 2027)
 
-- SW Mentoring for International Students in CAU SW Dept. | South Korea (Sep. 2025 - Dec. 2025)
+- SW Mentoring for International Students in CAU SW Dept. | South Korea (Sep 2025 - Dec 2025)
 
 - SKALA (SK AI Leader Academy) 4th (Jul. 2026 - present)
 
