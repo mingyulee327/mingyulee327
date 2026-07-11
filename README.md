@@ -30,7 +30,11 @@ Born in Korea, raised in Indonesia. CSE student in CAU with a love for my guitar
   
 - Signal Co., 80th Infantry Brigade, 28th Infantry Division, R.O.K.A. | South Korea (Apr. 2022 - Oct. 2023)
 
-- Member of Google Developer Groups on Campus, Chung-Ang University | South Korea (Sep. 2024 - present)
+- Member of Google Developer Groups on Campus, Chung-Ang University | South Korea (Sep. 2024 - Jul. 2027)
+
+- SW Mentoring for International Students in CAU SW Dept. | South Korea (Sep. 2025 - Dec. 2025)
+
+- SKALA (SK AI Leader Academy) 4th (Jul. 2026 - present)
 
 <br>
 <div align="center">
