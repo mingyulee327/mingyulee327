@@ -30,7 +30,7 @@ Born in Korea, raised in Indonesia. <br> CSE alumni @ CAU
   
 - Signal Co., 80th Infantry Brigade, 28th Infantry Division, R.O.K.A. | South Korea (Apr 2022 - Oct 2023)
 
-- Member of Google Developer Groups on Campus, Chung-Ang University | South Korea (Sep 2024 - Jul 2027)
+- Member of Google Developer Group on Campus, Chung-Ang University | South Korea (Sep 2024 - Jul 2027)
 
 - SW Mentoring for International Students in CAU SW Dept. | South Korea (Sep 2025 - Dec 2025)
 
